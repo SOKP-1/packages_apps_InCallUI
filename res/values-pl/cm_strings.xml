@@ -23,4 +23,6 @@
   <string name="blacklist_dialog_title">Dodaj do czarnej listy</string>
   <string name="blacklist_dialog_message">Przyszłe połączenia od  <xliff:g id="number">%s</xliff:g> będą blokowane</string>
   <string name="sub_no_sim">Brak karty SIM</string>
+  <string name="description_target_speaker">Odbierz na zestaw głośnomówiący</string>
+  <string name="description_direction_down">Przesuń w dół aby <xliff:g id="target_description" example="Odblokować">%s</xliff:g>.</string>
 </resources>
